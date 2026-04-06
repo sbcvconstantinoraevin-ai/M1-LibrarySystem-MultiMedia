@@ -69,7 +69,7 @@ public class SearchUI {
             }
         }
     }
-
+    //
     private void printBookTable(List<Book> books) {
         System.out.println("  " + ConsoleUI.DASH_62);
         System.out.printf("  %-4s | %-32s | %-14s | %-12s%n",
